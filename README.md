@@ -35,6 +35,12 @@ Building with Vue 3, TypeScript, and modern web AI tools.
 
 ---
 
+#### 📖 Learning in Public
+
+我的转型过程公开记录在 [**ai-frontend-journey**](https://github.com/pipixiayoudianpi/ai-frontend-journey) 仓库：每周进度报告、学习笔记、踩坑总结。
+
+---
+
 #### 📫 Connect
 
 - 📧 wenjie.huang@lofty.com
